@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/noureqo" target="blank"><img src="https://img.shields.io/twitter/follow/noureqo?logo=twitter&style=for-the-badge" alt="noureqo" /></a> </p>
 
-- 🔭 I’m currently working on **Real-time Chating App Using GO**
+- 🔭 I’m currently working on **AI-Assistant App Using Flutter**
 
 - 🌱 I’m currently learning **SW Arcticture**
 
