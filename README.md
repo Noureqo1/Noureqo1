@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=noureqo1&label=Profile%20views&color=0e75b6&style=flat" alt="noureqo1" /> </p>
 
-<p align="left"> <a href="https://twitter.com/noureqo" target="blank"><img src="https://img.shields.io/twitter/follow/noureqo?logo=twitter&style=for-the-badge" alt="noureqo" /></a> </p>
+<p align="left"> <a href="https://linkedin.com/in/noureldinabdelrazek" target="blank"><img src="https://img.shields.io/badge/Follow%20@%20Nour--Eldin%20Abdelrazek-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="Follow @ Nour-Eldin Abdelrazek"/></a> </p>
 
 - 🔭 I’m currently working on **AI-Assistant App Using Flutter**
 
