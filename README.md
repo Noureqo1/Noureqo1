@@ -1,6 +1,6 @@
 [![MasterHead](https://sircltech.com/assets/images/1_OF0xEMkWBv-69zvmNs6RDQ.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Nour_Eldin</h1>
-<h3 align="center">A Senior software enginer at Zewailcity for science and technology </h3>
+<h3 align="center">A senior software engineering student at Zewailcity for science and technology </h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/b9/e4/96/b9e4960c1476c78043d499d975f86cdb.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=noureqo1&label=Profile%20views&color=0e75b6&style=flat" alt="noureqo1" /> </p>
