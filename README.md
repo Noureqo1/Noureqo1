@@ -29,6 +29,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=noureqo1&show_icons=true&locale=en&layout=compact&langs_count=5&exclude_repo=Earthquake_Predictor_Probability&theme=dark" alt="noureqo1" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=noureqo1&show_icons=true&locale=en&theme=dark" alt="noureqo1" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=noureqo1&show_icons=true&locale=en&theme=dark" alt="noureqo" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats-eight.vercel.app/?user=noureqo1&theme=dark" alt="noureqo1" /></p>
