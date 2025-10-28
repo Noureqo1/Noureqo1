@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://linkedin.com/in/noureldinabdelrazek" target="blank"><img src="https://img.shields.io/badge/Follow%20@%20Nour--Eldin%20Abdelrazek-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="Follow @ Nour-Eldin Abdelrazek"/></a> </p>
 
-- 🔭 I’m currently working on **AI-Assistant App Using Flutter**
+- 🔭 I’m currently working on **Odoo_Educational_ERP_System**
 
-- 🌱 I’m currently learning **SW Arcticture**
+- 🌱 I’m currently learning **SW Parallel Commuting**
 
 - 💬 Ask me about **C++/Python/Java/software engineering**
 
